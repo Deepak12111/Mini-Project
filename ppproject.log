@@ -1,0 +1,513 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.22)  23 NOV 2022 13:01
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./ppproject.tex
+(ppproject.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28>
+(C:\Users\shubh\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\shubh\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\shubh\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+)
+(C:\Users\shubh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\shubh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\shubh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\shubh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\shubh\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\shubh\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen139
+\stockheight=\dimen140
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(C:\Users\shubh\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count193
+\lst@gtempboxa=\box51
+\lst@token=\toks17
+\lst@length=\count194
+\lst@currlwidth=\dimen143
+\lst@column=\count195
+\lst@pos=\count196
+\lst@lostspace=\dimen144
+\lst@width=\dimen145
+\lst@newlines=\count197
+\lst@lineno=\count198
+\lst@maxwidth=\dimen146
+
+(C:\Users\shubh\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count199
+\lst@skipnumbers=\count266
+\lst@framebox=\box52
+)
+(C:\Users\shubh\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:\Users\shubh\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count267
+\l__pdf_internal_box=\box53
+) (ppproject.aux)
+\openout1 = `ppproject.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+
+(C:\Users\shubh\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count268
+\scratchdimen=\dimen147
+\scratchbox=\box54
+\nofMPsegments=\count269
+\nofMParguments=\count270
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count271
+\MPscratchDim=\dimen148
+\MPnumerator=\count272
+\makeMPintoPDFobject=\count273
+\everyMPtoPDFconversion=\toks19
+)
+(C:\Users\shubh\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\shubh\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count274
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 26.
+ [1
+
+{C:/Users/shubh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+[2] [3] [4]
+Overfull \hbox (286.7981pt too wide) in paragraph at lines 85--86
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 8
+6.
+(C:\Users\shubh\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 86.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 9
+7.
+
+(C:\Users\shubh\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <14.4> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 97.
+
+Overfull \hbox (269.87814pt too wide) in paragraph at lines 101--102
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (58.37874pt too wide) in paragraph at lines 102--104
+[][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (185.27838pt too wide) in paragraph at lines 108--109
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[5]
+Overfull \hbox (109.1386pt too wide) in paragraph at lines 111--112
+[][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (134.51852pt too wide) in paragraph at lines 116--117
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (134.51852pt too wide) in paragraph at lines 120--121
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (49.91876pt too wide) in paragraph at lines 126--127
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (41.45879pt too wide) in paragraph at lines 128--129
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (16.07886pt too wide) in paragraph at lines 129--130
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (58.37874pt too wide) in paragraph at lines 130--131
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (32.99881pt too wide) in paragraph at lines 132--133
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (100.67862pt too wide) in paragraph at lines 134--135
+[][][][][][][][][][][][][][][][][] 
+ []
+
+[6]
+Overfull \hbox (83.75867pt too wide) in paragraph at lines 139--140
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (32.99881pt too wide) in paragraph at lines 140--142
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (185.27838pt too wide) in paragraph at lines 144--145
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (236.03824pt too wide) in paragraph at lines 145--146
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (92.21864pt too wide) in paragraph at lines 149--150
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (83.75867pt too wide) in paragraph at lines 158--159
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (261.41817pt too wide) in paragraph at lines 160--161
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+ []
+
+
+Overfull \hbox (100.67862pt too wide) in paragraph at lines 161--162
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[7]
+Overfull \hbox (252.95819pt too wide) in paragraph at lines 168--169
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (193.73836pt too wide) in paragraph at lines 169--170
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (236.03824pt too wide) in paragraph at lines 170--171
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (227.57826pt too wide) in paragraph at lines 171--172
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (176.8184pt too wide) in paragraph at lines 172--173
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (151.43848pt too wide) in paragraph at lines 190--191
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (92.21864pt too wide) in paragraph at lines 195--196
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (41.45879pt too wide) in paragraph at lines 196--197
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[8]
+Overfull \hbox (126.05855pt too wide) in paragraph at lines 213--214
+[][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (151.43848pt too wide) in paragraph at lines 216--217
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (159.89845pt too wide) in paragraph at lines 219--220
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (159.89845pt too wide) in paragraph at lines 220--221
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (168.35843pt too wide) in paragraph at lines 221--222
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (75.29869pt too wide) in paragraph at lines 222--223
+[][][][][][][][][][][][][][][][][] 
+ []
+
+[9]
+Overfull \hbox (168.35843pt too wide) in paragraph at lines 233--234
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (185.27838pt too wide) in paragraph at lines 242--243
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (49.91876pt too wide) in paragraph at lines 244--245
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (58.37874pt too wide) in paragraph at lines 245--246
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (75.29869pt too wide) in paragraph at lines 246--247
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (142.9785pt too wide) in paragraph at lines 247--248
+[][][][][][][][][][][][][] 
+ []
+
+[10]
+Overfull \hbox (117.59857pt too wide) in paragraph at lines 258--259
+[][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (109.1386pt too wide) in paragraph at lines 262--263
+[][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (49.91876pt too wide) in paragraph at lines 263--264
+[][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (168.35843pt too wide) in paragraph at lines 264--265
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (41.45879pt too wide) in paragraph at lines 265--266
+[][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (185.27838pt too wide) in paragraph at lines 268--269
+[][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (109.1386pt too wide) in paragraph at lines 271--272
+[][][][][][][][][][][][][][][][][] 
+ []
+
+[11]
+<./Images/1regis.png, id=42, 268.6035pt x 363.15675pt>
+File: ./Images/1regis.png Graphic file (type png)
+<use ./Images/1regis.png>
+Package pdftex.def Info: ./Images/1regis.png  used on input line 294.
+(pdftex.def)             Requested size: 268.60284pt x 363.15585pt.
+<./Images/2regis.png, id=44, 202.95825pt x 346.896pt>
+File: ./Images/2regis.png Graphic file (type png)
+<use ./Images/2regis.png>
+Package pdftex.def Info: ./Images/2regis.png  used on input line 301.
+(pdftex.def)             Requested size: 202.95775pt x 346.89514pt.
+<./Images/3resis.png, id=45, 200.54926pt x 344.487pt>
+File: ./Images/3resis.png Graphic file (type png)
+<use ./Images/3resis.png>
+Package pdftex.def Info: ./Images/3resis.png  used on input line 307.
+(pdftex.def)             Requested size: 200.54875pt x 344.48615pt.
+<./Images/4login.png, id=46, 308.95425pt x 445.665pt>
+File: ./Images/4login.png Graphic file (type png)
+<use ./Images/4login.png>
+Package pdftex.def Info: ./Images/4login.png  used on input line 313.
+(pdftex.def)             Requested size: 308.95349pt x 445.66391pt.
+<./Images/profilling1.png, id=47, 1371.1225pt x 770.88pt>
+File: ./Images/profilling1.png Graphic file (type png)
+<use ./Images/profilling1.png>
+Package pdftex.def Info: ./Images/profilling1.png  used on input line 321.
+(pdftex.def)             Requested size: 390.0pt x 219.26787pt.
+<./Images/profilling2.png, id=48, 1371.1225pt x 770.88pt>
+File: ./Images/profilling2.png Graphic file (type png)
+<use ./Images/profilling2.png>
+Package pdftex.def Info: ./Images/profilling2.png  used on input line 328.
+(pdftex.def)             Requested size: 390.0pt x 219.26787pt.
+<./Images/profilling3.png, id=49, 1371.1225pt x 770.88pt>
+File: ./Images/profilling3.png Graphic file (type png)
+<use ./Images/profilling3.png>
+Package pdftex.def Info: ./Images/profilling3.png  used on input line 334.
+(pdftex.def)             Requested size: 390.0pt x 219.26787pt.
+<./Images/gdb1.png, id=50, 337.86224pt x 416.15475pt>
+File: ./Images/gdb1.png Graphic file (type png)
+<use ./Images/gdb1.png>
+Package pdftex.def Info: ./Images/gdb1.png  used on input line 342.
+(pdftex.def)             Requested size: 390.0pt x 480.3967pt.
+
+
+LaTeX Warning: Float too large for page by 3.61336pt on input line 345.
+
+<./Images/gdb2.png, id=51, 760.64175pt x 226.446pt>
+File: ./Images/gdb2.png Graphic file (type png)
+<use ./Images/gdb2.png>
+Package pdftex.def Info: ./Images/gdb2.png  used on input line 349.
+(pdftex.def)             Requested size: 390.0pt x 116.10442pt.
+<./Images/gdb3.png, id=52, 784.1295pt x 221.628pt>
+File: ./Images/gdb3.png Graphic file (type png)
+<use ./Images/gdb3.png>
+Package pdftex.def Info: ./Images/gdb3.png  used on input line 355.
+(pdftex.def)             Requested size: 390.0pt x 110.22867pt.
+<./Images/gdb4.png, id=53, 769.07326pt x 205.9695pt>
+File: ./Images/gdb4.png Graphic file (type png)
+<use ./Images/gdb4.png>
+Package pdftex.def Info: ./Images/gdb4.png  used on input line 361.
+(pdftex.def)             Requested size: 390.0pt x 104.44905pt.
+<./Images/gdb5.png, id=54, 582.37575pt x 99.9735pt>
+File: ./Images/gdb5.png Graphic file (type png)
+<use ./Images/gdb5.png>
+Package pdftex.def Info: ./Images/gdb5.png  used on input line 367.
+(pdftex.def)             Requested size: 390.0pt x 66.95137pt.
+<./Images/gdb6.png, id=55, 392.667pt x 69.861pt>
+File: ./Images/gdb6.png Graphic file (type png)
+<use ./Images/gdb6.png>
+Package pdftex.def Info: ./Images/gdb6.png  used on input line 373.
+(pdftex.def)             Requested size: 390.0pt x 69.3875pt.
+<./Images/gdb7.png, id=56, 510.708pt x 175.25475pt>
+File: ./Images/gdb7.png Graphic file (type png)
+<use ./Images/gdb7.png>
+Package pdftex.def Info: ./Images/gdb7.png  used on input line 379.
+(pdftex.def)             Requested size: 390.0pt x 133.83678pt.
+<./Images/gdb8.png, id=57, 317.38576pt x 166.82326pt>
+File: ./Images/gdb8.png Graphic file (type png)
+<use ./Images/gdb8.png>
+Package pdftex.def Info: ./Images/gdb8.png  used on input line 385.
+(pdftex.def)             Requested size: 390.0pt x 204.99538pt.
+<./Images/gdb9.png, id=58, 301.72725pt x 151.16475pt>
+File: ./Images/gdb9.png Graphic file (type png)
+<use ./Images/gdb9.png>
+Package pdftex.def Info: ./Images/gdb9.png  used on input line 391.
+(pdftex.def)             Requested size: 390.0pt x 195.39313pt.
+[12 <./Images/1regis.png>] [13 <./Images/2regis.png>] [14 <./Images/3resis.png>
+] [15 <./Images/4login.png>] [16 <./Images/profilling1.png> <./Images/profillin
+g2.png>] [17 <./Images/profilling3.png>] [18 <./Images/gdb1.png>] [19 <./Images
+/gdb2.png> <./Images/gdb3.png> <./Images/gdb4.png> <./Images/gdb5.png>]
+[20 <./Images/gdb6.png> <./Images/gdb7.png> <./Images/gdb8.png>] [21 <./Images/
+gdb9.png>] (ppproject.aux) ) 
+Here is how much of TeX's memory you used:
+ 3298 strings out of 475385
+ 50375 string characters out of 2776906
+ 421294 words of memory out of 3000000
+ 24680 multiletter control sequences out of 15000+600000
+ 473291 words of font info for 41 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,6n,62p,209b,1533s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\shubh\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/jknappen/ec/dpi600\tcrm1440.pk><C:/Users/shubh/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/shubh/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/shubh/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/shubh/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/s
+hubh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on ppproject.pdf (21 pages, 723172 bytes).
+PDF statistics:
+ 134 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+
